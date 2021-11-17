@@ -21,9 +21,9 @@ We had to cleanup the data and replace reading and math scores for the ninth gra
   ![school_summary_2](Resources/school_summary_2.png)
 4. How does replacing the ninth-grade scores affect the following:
   - Math and Reading scores by grade:
-    - THS ninth math grades were higher compared with other other schools before the cleanup
-  ![math_summary_1](Resources/math_summary_1.png)
-  ![math_summary_2](Resources/math_summary_2.png)
+    - THS ninth math grades were higher compared with other  schools before the cleanup
+  ![math_scores](Resources/math_scores.png)
+  ![reading_scores](Resources/reading_scores.png)
   - Scores by school spending:
     - It gets to 63% overall passing percentage
     ![spending_1](Resources/spending_1.png)
