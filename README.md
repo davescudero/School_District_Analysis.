@@ -6,9 +6,11 @@ Data Source: PyCitySchools
 Software: Python, Jupiter Notebook, Pandas, VSC
 ## Analysis and Results
 We had to cleanup the data and replace reading and math scores for the ninth grade at Thomas High School with NaNs.
+
 ![programa_1](Resources/programa_1.png)
 ![programa_2](Resources/programa_2.png)
 ![programa_3](Resources/programa_3.png)
+
 1. How is the district summary affected?
   - The only change is a little drop in math average between the two analyses
   ![district_summary_1](Resources/district_summary_1.png)
@@ -33,3 +35,9 @@ We had to cleanup the data and replace reading and math scores for the ninth gra
   - Scores by school type:
     - It gets to 90% overall passing percentage
     ![type_1](Resources/type_1.png)
+## Summary
+1. 9th graders arent the highest overall but they do balance out compared to the other grades
+2. THS scores fell if we remove those scores
+3. THS cant compete with other schools
+4. In general without those grades district summary doesnt change that much.
+
