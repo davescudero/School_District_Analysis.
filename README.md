@@ -25,11 +25,11 @@ We had to cleanup the data and replace reading and math scores for the ninth gra
   ![math_summary_1](Resources/math_summary_1.png)
   ![math_summary_2](Resources/math_summary_2.png)
   - Scores by school spending:
-    - The range suffer a drop to 56% overall passing percentage
+    - It gets to 63% overall passing percentage
     ![spending_1](Resources/spending_1.png)
   - Scores by school size:
-    - It suffers a drop tp 85% overall passing percentage
+    - It gets to 91% overall passing percentage
     ![size_1](Resources/size_1.png)
   - Scores by school type:
-    - It suffers a drop to 87% overall passing percentage
+    - It gets to 90% overall passing percentage
     ![type_1](Resources/type_1.png)
